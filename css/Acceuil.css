@@ -38,7 +38,7 @@ Body {
 /*             Nav bar                */
 .background {
   background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
-    url(../img/developer.jpg);
+    url(../img/Black\ and\ Red\ Lightning\ Party\ Facebook\ Post.png);
   background-repeat: no-repeat;
   width: 100%;
   background-size: cover;
@@ -156,7 +156,7 @@ Body {
               padding: 4.5em 0; }
               @media (min-width: 768px) {
                 .site-section {
-                  padding: 7em 0; } }
+                   } }
               .site-section.site-section-sm {
                 padding: 4em 0; }
             
@@ -258,7 +258,7 @@ body {
   50% { border-color: #ce0033}
 }
 .typewriter {
-  margin-top: 180px;
+  margin-top: 250px;
 }
 /**bouttton Details Offre**/
 .readmore {
